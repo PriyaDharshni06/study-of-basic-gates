@@ -62,7 +62,7 @@ Y= A⊕B
 
 
 # PROGRAM
-![program for exp 1](https://github.com/user-attachments/assets/4f6fb89b-d014-4b62-8163-fb4667ba9830)
+![Screenshot 2024-11-14 084629](https://github.com/user-attachments/assets/1c254870-8a8f-4f5c-afc3-03c06e70f95e)
 
 # LOGIC SYMBOL & TRUTH TABLE
 ![WhatsApp Image 2024-11-14 at 08 51 48_209a834b](https://github.com/user-attachments/assets/c2a1a675-0f9a-4484-bd5c-8e77cdf3eeac)
