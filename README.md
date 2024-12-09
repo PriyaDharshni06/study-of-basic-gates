@@ -1,6 +1,6 @@
 ### NAME:PRIYA DHARSHNI .S
 ### REG NO:24900865
-#### EXPERIMENT 1:STUDY OF LOGIC GATES
+### EXPERIMENT 1:STUDY OF LOGIC GATES
 # AIM:
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
